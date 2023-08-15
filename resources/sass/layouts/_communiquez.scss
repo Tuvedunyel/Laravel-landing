@@ -1,0 +1,42 @@
+.communiquez {
+    padding-top: 3.2rem;
+    position: relative;
+
+    .container-narrow {
+        text-align: left;
+    }
+
+    .as-de-coeur {
+        position: absolute;
+        top: -25%;
+        left: 8%;
+        max-width: 249.85px;
+    }
+
+    h2 {
+        font-size: 4.4rem;
+        font-weight: 700;
+        margin-bottom: 1.3rem;
+
+        span {
+            color: #e3765b;
+        }
+    }
+
+    .symbols {
+        margin-bottom: 2.4rem;
+        max-width: 132.85px;
+    }
+
+    p {
+        font-size: 2rem;
+        font-weight: 300;
+    }
+
+    strong {
+        color: #e3765b;
+        font-size: 2.9rem;
+        display: flow-root;
+        margin-top: 1em;
+    }
+}

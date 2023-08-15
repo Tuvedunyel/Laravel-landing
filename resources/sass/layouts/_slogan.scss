@@ -1,0 +1,30 @@
+.slogan {
+    background: #f9eee1;
+    padding-block: 7rem 6.3rem;
+
+    .container-narrow {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        gap: 1em;
+    }
+
+    h2 {
+        font-size: 4.4rem;
+
+        .orange {
+            color: #e3765b;
+        }
+    }
+
+    p {
+        font-size: 2.7rem;
+        font-weight: 500;
+    }
+
+    img {
+        max-width: 88.8px;
+    }
+}

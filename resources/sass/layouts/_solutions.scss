@@ -1,0 +1,28 @@
+#visible {
+    background: #09243a;
+    padding-block: 6.8rem 9.7rem;
+
+    h2 {
+        text-align: center;
+        font-size: 4.4rem;
+        color: white;
+
+        .orange {
+            color: #e3765b;
+        }
+    }
+
+    .container {
+        max-width: 85%;
+        margin-inline: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .white-symbols {
+        margin-top: 1.3rem;
+        max-width: 132.85px;
+    }
+}

@@ -1,0 +1,29 @@
+.hero-banner {
+    position: relative;
+    background: #fcd647;
+    padding-block: 7.1rem 8.2rem;
+
+    .logo {
+        position: absolute;
+        width: 194.65px;
+        height: 92.93px;
+        top: 5%;
+        left: 2%;
+    }
+
+    h1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        gap: 0.2em;
+        font-size: 4rem;
+        font-weight: 300;
+        line-height: 1.1;
+    }
+
+    .strong {
+        font-weight: 900;
+    }
+}
